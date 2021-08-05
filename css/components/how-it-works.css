@@ -1,0 +1,43 @@
+content {
+  text-align: center;
+}
+
+.section-title {
+  font-family: Poppins;
+  font-size: 22px;
+  margin: 20px 0 20px 0;
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 900px;
+  height: 275px;
+  margin: 0px auto;
+}
+
+.card {
+  height: 235px;
+  width: 202px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  border-radius: 3px;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+
+}
+
+.card img {
+  height: 100px;
+}
+
+.card h4 {
+  margin: 22px 0;
+}
+
+.card p {
+  height: 16px;
+  opacity: 0.5;
+  font-family: Open Sans;
+  margin: 16px 0;
+}
